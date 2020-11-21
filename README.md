@@ -5,12 +5,12 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/sunmughan/pubgm_memory_hacking)]()
 
 
-[https://instagram.com/sunmughan](Connect me on Instagram)
+[https://instagram.com/sunmughan]  (Connect me on Instagram)
 
 Pubg Mobile Emulator Gameloop Memory Hacking C++ code examples. Ex: Name, Coord, Bones, Weapons, Items, Box, Drop etc.  
 
 **[Youtube Video](https://www.youtube.com/watch?v=4KoCf4DoBKQ)**
-[![PUBG ESP EXAMPLE SCREENSHOT](https://raw.githubusercontent.com/sunmughan/pubg_mobile_memory_hacking_examples/master/screens/example_screen.jpg)](https://www.youtube.com/watch?v=4KoCf4DoBKQ)
+[![PUBG ESP EXAMPLE SCREENSHOT](https://raw.githubusercontent.com/sunmughan/pubg_memory_hacking/master/screens/example_screen.jpg)](https://www.youtube.com/watch?v=4KoCf4DoBKQ)
 
 I just created this quickly. Then text not pretty good.  
 
