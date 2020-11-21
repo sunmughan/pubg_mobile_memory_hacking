@@ -1,17 +1,16 @@
 # Pubg Mobile Gameloop ESP Source
-[![GitHub](https://img.shields.io/badge/Author-Amiral%20Router-blue)]()
+[![GitHub](https://img.shields.io/badge/Author-Sunmughan%20Swamy-blue)]()
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fatiksoftware%2Fpubg_mobile_memory_hacking_examples)]()
-[![GitHub stars](https://img.shields.io/github/stars/atiksoftware/pubg_mobile_memory_hacking_examples?color=brightgreen)]()
-[![GitHub contributors](https://img.shields.io/github/contributors/atiksoftware/pubg_mobile_memory_hacking_examples?color=brightgreen)]()
-[![GitHub issues](https://img.shields.io/github/issues/atiksoftware/pubg_mobile_memory_hacking_examples?color=blue)]()
+[![GitHub stars](https://img.shields.io/github/stars/sunmughan)]()
+[![GitHub contributors](https://img.shields.io/github/contributors/sunmughan/pubgm_memory_hacking)]()
 
 
-[https://discord.gg/r29z6XW](https://discord.gg/r29z6XW)
+[https://instagram.com/sunmughan](Connect me on Instagram)
 
 Pubg Mobile Emulator Gameloop Memory Hacking C++ code examples. Ex: Name, Coord, Bones, Weapons, Items, Box, Drop etc.  
 
 **[Youtube Video](https://www.youtube.com/watch?v=4KoCf4DoBKQ)**
-[![PUBG ESP EXAMPLE SCREENSHOT](https://raw.githubusercontent.com/atiksoftware/pubg_mobile_memory_hacking_examples/master/screens/example_screen.jpg)](https://www.youtube.com/watch?v=4KoCf4DoBKQ)
+[![PUBG ESP EXAMPLE SCREENSHOT](https://raw.githubusercontent.com/sunmughan/pubg_mobile_memory_hacking_examples/master/screens/example_screen.jpg)](https://www.youtube.com/watch?v=4KoCf4DoBKQ)
 
 I just created this quickly. Then text not pretty good.  
 
@@ -54,7 +53,7 @@ Link : [https://www.unknowncheats.me/forum/anti-cheat-bypass/312791-bypaph-proce
 + Airdrop Items
 
 You can see my codes and offsets
-[ESP Source File ](https://github.com/atiksoftware/pubg_mobile_memory_hacking_examples/blob/master/Esp.cpp)
+[ESP Source File ](https://github.com/sunmughan/pubg_mobile_memory_hacking_examples/blob/master/Esp.cpp)
   
 ---  
 ## Whats defferent between Gameloop/Smartgaga and LDPlayer/Memu
@@ -65,12 +64,12 @@ As **xiderowg**'s says on https://www.unknowncheats.me/forum/pubg-mobile/379241-
 ---  
 ## Pubg Mobile Entity Offsets
 
-[![Pubg Mobile Player Entity Offsets](https://raw.githubusercontent.com/atiksoftware/pubg_mobile_memory_hacking_examples/master/Offsets/images/ReClassThumbnailPlayer.png)](Offsets/Player.md)
-[![Pubg Mobile Vehicle Entity Offsets](https://raw.githubusercontent.com/atiksoftware/pubg_mobile_memory_hacking_examples/master/Offsets/images/ReClassThumbnailVehicle.png)](Offsets/Vehicle.md)
-[![Pubg Mobile Invetory Entity Offsets](https://raw.githubusercontent.com/atiksoftware/pubg_mobile_memory_hacking_examples/master/Offsets/images/ReClassThumbnailInventory.png)](Offsets/Inventory.md)
+[![Pubg Mobile Player Entity Offsets](https://raw.githubusercontent.com/sunmughan/pubg_mobile_memory_hacking_examples/master/Offsets/images/ReClassThumbnailPlayer.png)](Offsets/Player.md)
+[![Pubg Mobile Vehicle Entity Offsets](https://raw.githubusercontent.com/sunmughan/pubg_mobile_memory_hacking_examples/master/Offsets/images/ReClassThumbnailVehicle.png)](Offsets/Vehicle.md)
+[![Pubg Mobile Invetory Entity Offsets](https://raw.githubusercontent.com/sunmughan/pubg_mobile_memory_hacking_examples/master/Offsets/images/ReClassThumbnailInventory.png)](Offsets/Inventory.md)
 ---  
 ## Player Details
-![](https://raw.githubusercontent.com/atiksoftware/pubg_mobile_memory_hacking_examples/master/screens/example_player_reclass.jpg)
+![](https://raw.githubusercontent.com/sunmughan/pubg_mobile_memory_hacking_examples/master/screens/example_player_reclass.jpg)
 ---  
 ## Player Details
  ```c++
@@ -359,4 +358,4 @@ Item Types
 ---
 
 #### If you like this document, you can give a star. Thank you
-**Amiral Router!**
+**Sunmughan Swamy**
