@@ -18,7 +18,7 @@ I just created this quickly. Then text not pretty good.
 `I do not share my current personal project because i can't share the bypass method due to PUBGMOBILE policy. I'm just sharing how you could find deta in memory`
 
 ## Tutorial
-**[Complete Guide](https://mega.nz/folder/iRtU2SBJ#jM1NFMiihQVtxYmK48Afkw)
+** [Complete Guide](https://mega.nz/folder/iRtU2SBJ#jM1NFMiihQVtxYmK48Afkw)
 
 
 ## Just Examples
