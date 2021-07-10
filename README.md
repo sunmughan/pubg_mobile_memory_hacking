@@ -15,17 +15,11 @@ Pubg Mobile Emulator Gameloop Memory Hacking C++ code examples. Ex: Name, Coord,
 
 I just created this quickly. Then text not pretty good.  
 
-`I not share project. because i cant share bypass methos. I just share how can you find detas in memory`
+`I do not share my current personal project because i can't share the bypass method due to PUBGMOBILE policy. I'm just sharing how you could find deta in memory`
 
 ## Tutorial
-[![#1 - How Can I Find Pubg Mobile View Matrix Pattern](https://i3.ytimg.com/vi/ya0rbAwFKdY/default.jpg)](https://www.youtube.com/watch?v=ya0rbAwFKdY)
-[![#2 - Create a New C++ Console Application | Pubg Mobile Hacking Tutorial](https://i3.ytimg.com/vi/8DxZExFLges/default.jpg)](https://www.youtube.com/watch?v=8DxZExFLges)
-[![#3 - Create a Overlay Window - Import SFML Library | Pubg Mobile Hacking Tutorial](https://i3.ytimg.com/vi/mukNNm5MxJE/default.jpg)](https://www.youtube.com/watch?v=mukNNm5MxJE)
-[![#4 - Process Manager - Find Aow Process ID | Pubg Mobile Hacking Tutorial](https://i3.ytimg.com/vi/nVuDz1hbYEs/default.jpg)](https://www.youtube.com/watch?v=nVuDz1hbYEs)
-[![#5 - How Can I Change Driver Name - kprocesshacker.sys | Pubg Mobile Hacking Tutorial](https://i3.ytimg.com/vi/uJiurAlhsWw/default.jpg)](https://www.youtube.com/watch?v=uJiurAlhsWw)
-[![#6 - Colorful Terminal Output | Pubg Mobile Hacking Tutorial](https://i3.ytimg.com/vi/UI6xyrmGtQ4/default.jpg)](https://www.youtube.com/watch?v=UI6xyrmGtQ4)
-[![#7 - Memory Manager - Connect to Driver | Pubg Mobile Hacking Tutorial](https://i3.ytimg.com/vi/V3bd7XEfW68/default.jpg)](https://www.youtube.com/watch?v=V3bd7XEfW68)
-[![#8 - ESP - Find Base Points | Pubg Mobile Hacking Tutorial](https://i3.ytimg.com/vi/TpCXqkRH08A/default.jpg)](https://www.youtube.com/watch?v=TpCXqkRH08A)
+[![Complete Guide](https://i3.ytimg.com/vi/ya0rbAwFKdY/default.jpg)](https://mega.nz/folder/iRtU2SBJ#jM1NFMiihQVtxYmK48Afkw)
+
 
 ## Just Examples
 Hi dear visitor. Its not hacking app or shared app. It just example codes pool. I will push here simples code about what i know and what i experied on pubg memory hacking. My purpose is find again if i forget or if some one need it, he can find it.
@@ -46,7 +40,7 @@ i created c++ project and used his pattern and offsets
 Author : harakirinox  
 Link : [https://www.unknowncheats.me/forum/anti-cheat-bypass/312791-bypaph-process-hackers-bypass-read-write-process-virtual-memory-kernel-mem.html](https://www.unknowncheats.me/forum/anti-cheat-bypass/312791-bypaph-process-hackers-bypass-read-write-process-virtual-memory-kernel-mem.html)
 
-## Whats my news
+## Whats New
 + Vehicle HP
 + Vehicle Fuel
 + PlayerDeadInventoryBox
@@ -358,5 +352,5 @@ Item Types
 | 403188   | 1        | PickUp\_BP\_Ghillie\_3\_C                | Suit \- Desert                    |
 ---
 
-#### If you like this document, you can give a star. Thank you
+#### If you like this project, you can give this repository a star. Thank you
 **Sunmughan Swamy**
